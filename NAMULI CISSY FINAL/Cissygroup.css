@@ -1,0 +1,18 @@
+#h{
+	text-shadow:3px 2px blue;
+	color:	#ffff00;
+}
+div#links{
+	text-align:center;
+	color:red;
+	font-size:30px;
+}
+ol{
+	color:yellow;
+}
+body{
+	padding: 0px;
+	margin: 0px;
+	font-size: Arial, sans-serif;
+	color: #333;
+}
